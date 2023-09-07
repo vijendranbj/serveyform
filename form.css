@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+
+div{
+    color: white;
+    font-size: large;
+}
+
+.form-control{
+    height: 40px;
+    width: 50%;
+    background-color: white;
+    border-radius: 23px;
+    border: blue solid;
+   
+}
+body{
+    width:100%;
+   border: white solid;
+    margin: auto;
+    
+}
+option{
+    color: white;
+    font-size: x-large;
+}
+body{
+    width: 100%;
+    
+    margin: 50px;
+}
+.container{
+    width: 100%;
+    
+    border: white solid;
+    text-align: center;
+   margin: auto;
+   
+}
+ .submit{
+    color: white;
+    font-size: xx-large;
+ }
+.Ratings{
+   
+    word-spacing: 40px;
+}
+.gender{
+    word-spacing: 40px;
+}
